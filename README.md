@@ -91,11 +91,6 @@ Ensure you have the following installed:
 
 ---
 
-## 📜 License
-This project is open-source under the **MIT License**. Feel free to contribute and share feedback!
-
----
-
 ## ⭐ Acknowledgments
 - 🙌 **Hugging Face** for the `Transformers` and `Datasets` libraries.  
 - 🎯 **TextAttack** for the adversarial attack tools.  
